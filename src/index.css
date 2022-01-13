@@ -1,0 +1,43 @@
+.menu-item{
+    align-items: center;
+}
+
+.menu-item li button{
+    background: #fff;
+    border: none;
+    color: #000;
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 0.5rem 1rem;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+    outline: none;
+    margin-right: 1rem;
+}
+
+.mint--form{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+.mint--form input{
+    padding: 15px 20px;
+}
+.error{
+    color: red !important;
+}
+.mint--info{
+    margin-top: 1rem;
+}
+.mint--info li{
+    margin-bottom: 0.5rem;
+    color: #fff;
+}
+
+.main-btn{
+    outline: none;
+    border: none;
+}
+.main-btn:focus{
+    outline: none;
+}

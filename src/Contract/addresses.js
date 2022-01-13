@@ -1,0 +1,1 @@
+export const MintAddress = '0x00a7B4a87EB46Dd463b9Bef45C97B1B75976Ca75';

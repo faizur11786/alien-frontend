@@ -1,0 +1,15 @@
+export { default as Header } from './Header';
+export { default as Footer } from './Footer';
+export { default as Banner } from './Banner';
+export { default as Layout } from './Layout';
+export { default as Hero } from './Hero';
+export { default as Watch } from './Watch';
+export { default as Game } from './Game';
+export { default as About } from './About';
+export { default as Counter } from './Counter';
+export { default as Join } from './Join';
+export { default as Blog } from './Blog';
+export { default as RoadMap } from './RoadMap';
+export { default as Player } from './Player';
+export { default as Subscribe } from './Subscribe';
+export { default as CopyRight } from './CopyRight';
